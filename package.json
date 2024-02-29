@@ -1,0 +1,10 @@
+{
+  "name": "kaban-workspace",
+  "private": true,
+  "author": "Michał Fedyna <michal@fedyna.pl>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalfedyna/kaban.git"
+  }
+}

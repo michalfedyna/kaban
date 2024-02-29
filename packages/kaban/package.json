@@ -1,0 +1,23 @@
+{
+  "name": "kaban",
+  "version": "0.0.1",
+  "description": "Kanban tool for your terminal",
+  "keywords": [
+    "board",
+    "cli",
+    "kanban",
+    "task",
+    "terminal",
+    "todo",
+    "tool"
+  ],
+  "bin": {
+    "kaban": "./bin/index.js"
+  },
+  "author": "Michał Fedyna <michal@fedyna.pl>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalfedyna/kaban.git"
+  }
+}
